@@ -9,7 +9,7 @@ and machine learning. My research explores how predictive models
 can adapt to evolving data environments, particularly when
 structural changes make traditional forecasting methods less reliable.
 
-### PhD Supervisor: [Dr Matteo Fasilo](https://github.com/mfasiolo)
+### PhD Supervisor: [Dr Matteo Fasiolo](https://github.com/mfasiolo)
 
 ## Research Overview
 
