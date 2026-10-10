@@ -9,36 +9,18 @@ and machine learning. My research explores how predictive models
 can adapt to evolving data environments, particularly when
 structural changes make traditional forecasting methods less reliable.
 
-## 🔬 Research Themes
+### PhD Supervisor: [Dr Matteo Fasilo](https://github.com/mfasiolo)
 
-**Adaptive Forecasting**
-Understanding how forecasting models can respond to changing
-patterns in time series data.
+## Research Overview
 
-**Online Learning**
-Developing and evaluating learning algorithms that update
-their predictions as new observations become available.
+My research focuses on developing adaptive forecasting methods for evolving data environments, particularly electricity demand and supply under structural changes caused by crises such as COVID-19 and the Russia–Ukraine war. I investigate how time-varying learning rates and forgetting factors, modelled through flexible nonlinear covariate effects or combined using online aggregation methods such as Exponentially Weighted Aggregation (EWA) and ordinal stacking, can improve forecasting adaptability and stability. I also explore adaptive strategies for selecting the optimal number of iterations in machine learning algorithms, particularly in online learning and rolling-window settings where data and model performance evolve over time.
 
-## 🛠 Tools & Technologies
 
-`R` · `Python` · `C++` · `RcppArmadillo` · `Git`
+## Tools & Technologies
 
-## 🚀 Research Projects
+`R` · `C++` · `Git`
 
-### Adaptive Electricity Demand Forecasting
-Investigating adaptive statistical and machine learning methods
-for electricity-demand prediction under structural change.
-
-### Statistical Comparison of Machine Learning Algorithms
-Exploring methods for determining the computational effort and
-sample sizes required to compare predictive algorithms reliably.
-
-## 🤝 Research Interests
-
-Statistical Learning · Time Series · Online Algorithms ·
-Forecast Evaluation · Statistical Computing
-
-## 📫 Let's Connect
+## Let's Connect
 
 I welcome conversations about statistical methodology,
 machine learning, forecasting, and research collaboration.
