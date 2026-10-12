@@ -4,10 +4,7 @@
 > Developing statistical methods that learn, adapt, and remain
 > reliable as the world changes.
 
-I am a PhD researcher working at the intersection of statistics
-and machine learning. My research explores how predictive models
-can adapt to evolving data environments, particularly when
-structural changes make traditional forecasting methods less reliable.
+I am a PhD researcher specialising in statistics and machine learning. My research focuses on developing adaptive predictive models that respond to evolving data environments, particularly structural changes that affect the reliability and accuracy of conventional forecasting methods.
 
 ### PhD Supervisor: [Dr Matteo Fasiolo](https://github.com/mfasiolo)
 
@@ -19,7 +16,5 @@ My research focuses on developing adaptive forecasting methods using time-varyin
 
 `R` · `C++` · `Git`
 
-## Let's Connect
-
-I welcome conversations about statistical methodology,
-machine learning, forecasting, and research collaboration.
+> I welcome conversations about statistical methodology,
+> machine learning, forecasting, and research collaboration.
